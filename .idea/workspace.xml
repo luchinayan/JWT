@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a8ae356e-0db6-46db-b54c-6fb1f24ed5ee" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1s45ajx5NUGAiVWZffauyO5ZVPX" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="12.18.2" />
+    <property name="javascript.nodejs.core.library.typings.version" value="12.20.11" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/node-express-jwt-auth-lesson-1" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="AtomConfig" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/node-express-jwt-auth-lesson-1/public" />
+      <recent name="$PROJECT_DIR$/node-express-jwt-auth-lesson-1/views" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a8ae356e-0db6-46db-b54c-6fb1f24ed5ee" name="Default Changelist" comment="" />
+      <created>1620119086966</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1620119086966</updated>
+      <workItem from="1620119087988" duration="4112000" />
+      <workItem from="1620123892905" duration="23766000" />
+      <workItem from="1620221295709" duration="8661000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2338" y="217" width="1084" height="734" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1620165495941">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2338" y="217" width="1084" height="734" key="#com.intellij.execution.impl.EditConfigurationsDialog/1920.0.1920.1080/0.82.1920.1080@1920.0.1920.1080" timestamp="1620165495941" />
+    <state x="2589" y="356" width="572" height="412" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1620123148689">
+      <screen x="0" y="38" width="3840" height="1124" />
+    </state>
+    <state x="2589" y="356" width="572" height="412" key="#com.intellij.fileTypes.FileTypeChooser/0.38.3840.1124@0.38.3840.1124" timestamp="1620123148689" />
+    <state x="693" y="308" width="524" height="508" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1620120391555">
+      <screen x="0" y="38" width="1920" height="1042" />
+    </state>
+    <state x="693" y="308" width="524" height="508" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.38.1920.1042@0.38.1920.1042" timestamp="1620120391555" />
+    <state x="3252" y="268" width="306" height="472" key="FileChooserDialogImpl" timestamp="1620165490403">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2663" y="317" width="424" height="491" key="FileChooserDialogImpl/0.38.3840.1124@0.38.3840.1124" timestamp="1620123100456" />
+    <state x="3252" y="268" width="306" height="472" key="FileChooserDialogImpl/1920.0.1920.1080/0.82.1920.1080@1920.0.1920.1080" timestamp="1620165490403" />
+    <state x="2384" y="194" width="992" height="737" key="SettingsEditor" timestamp="1620123963257">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2384" y="194" width="992" height="737" key="SettingsEditor/1920.0.1920.1080/0.82.1920.1080@1920.0.1920.1080" timestamp="1620123963257" />
+    <state x="2514" y="172" width="722" height="780" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1620210934694">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2514" y="172" width="722" height="780" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/1920.0.1920.1080/0.82.1920.1080@1920.0.1920.1080" timestamp="1620210934694" />
+    <state x="2544" y="255" key="run.anything.popup" timestamp="1620212526924">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2544" y="255" key="run.anything.popup/1920.0.1920.1080/0.82.1920.1080@1920.0.1920.1080" timestamp="1620212526924" />
+    <state x="2543" y="267" width="672" height="678" key="search.everywhere.popup" timestamp="1620227455156">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2543" y="267" width="672" height="678" key="search.everywhere.popup/1920.0.1920.1080/0.82.1920.1080@1920.0.1920.1080" timestamp="1620227455156" />
+  </component>
+</project>
