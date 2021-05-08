@@ -1,2 +1,2 @@
 # JWT
-Using MingoDB,Node.js,Mongoose,JWT
+Using MongoDB,Node.js,Mongoose,JWT
